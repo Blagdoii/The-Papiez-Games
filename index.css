@@ -9,6 +9,10 @@ html, body {
   height: 100%;
 }
 
+audio {
+ color: #87cfff;
+}
+
 .icon {
   -webkit-user-select: none;
   user-select: none;
