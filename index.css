@@ -139,8 +139,12 @@ audio {
   }
 }
 
-div.zmiany {
+h1 {
   font-size: 18px;
-font-family: Arial;
+font-family: Nunito;
 }
 
+p {
+  font-size: 16px;
+font-family: Arial;
+}
