@@ -139,3 +139,14 @@ audio {
   }
 }
 
+p {
+text-align: center;
+font-family: Montserrat;
+}
+
+a {
+text-align: center;
+font-family: Montserrat;
+color: #7f5ef7;
+}
+
