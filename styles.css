@@ -1,12 +1,22 @@
 body {
-  background-image: linear-gradient(#ffd359, #fad46b, #ffdc7d, #ffe294);
+  background-image: linear-gradient(#ffd359, #fad46b, #ffdc7d, #fffba6, #fffbb8, #b8fff5, #9efff2, #86fced);
 }
 
 p {
 text-align: center;
 font-family: Montserrat, bold;
-font-size: 30px;
+font-size: 18px;
+color: #212406;
 }
+
+
+h {
+text-align: center;
+font-family: Montserrat, bold;
+font-size: 20px;
+color: #212406;
+}
+
 
 .zmiany{
 text-align: center;
