@@ -1,0 +1,55 @@
+body {
+  background-image: linear-gradient(#ffd359, #fad46b, #ffdc7d, #fffba6, #fffbb8, #b8fff5, #9efff2, #86fced);}
+
+p {
+text-align: center;
+font-family: Montserrat, bold;
+font-size: 18px;
+color: #212406;}
+
+
+h {
+text-align: center;
+font-family: Montserrat, bold;
+font-size: 20px;
+color: #212406;}
+
+
+.zmiany{
+text-align: center;
+font-family: Montserrat;
+color: #90ff8c;
+text-decoration: none;}
+
+.play {
+text-align: center;
+font-family: Montserrat;
+color: #90ff8c;
+text-decoration: none;}
+
+.github {
+text-align: center;
+font-family: Montserrat;
+color: #90ff8c;
+text-decoration: none;}
+
+.help{
+text-align: center;
+font-family: Montserrat;
+color: #90ff8c;
+text-decoration: none;}
+
+.chuj{
+text-align: center;
+font-size: 30px;}
+
+.penis{
+text-align: center;
+}
+
+a {
+text-align: center;
+font-family: Montserrat;
+color: #33b1ff;
+text-decoration: none;
+font-size: 23px;}
